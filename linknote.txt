@@ -1,0 +1,13 @@
+2. lý do nghiên cứu
+https://gsviec.com/blog/huong-dan-su-dung-git-va-github-co-ban
+https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-1-naQZR4pP5vx
+3. Sơ lược về Git GitHub
+https://xuanthulab.net/gioi-thieu-ve-he-thong-quan-ly-phien-ban-git-cai-dat-va-thiet-lap.html
+https://vi.wikipedia.org/wiki/Git_(ph%E1%BA%A7n_m%E1%BB%81m)
+https://vi.wikipedia.org/wiki/GitHub
+4. hoạt dộng của git
+https://topdev.vn/blog/git-la-gi/
+	các chức năng cơ bản
+https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-1-naQZR4pP5vx
+https://viblo.asia/p/git-hoc-nghiem-tuc-mot-lan-phan-1-OeVKBo6JZkW
+
